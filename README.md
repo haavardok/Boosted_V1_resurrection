@@ -16,7 +16,7 @@ Bought a `Boosted V1 Dual` second hand, but it ended up getting a RLOD shortly a
 
 ## Software
 | Producer     | Software             | Version          | Price       |
-| :----------- | :------------------: | :--------------- | :---------- |
+| :----------- | :------------------- | :--------------- | :---------- |
 | VESC Project | VESC Tool Free       | SKU: vtoolfr001  | €0.00 EUR   |
 
 ## Links
